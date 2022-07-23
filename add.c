@@ -9,4 +9,6 @@ main()
 	
 	c=a+b;
 	printf("\n enter add of two numbers=%d",c);
+	print("hello c")
+	print("hello world")
 }
